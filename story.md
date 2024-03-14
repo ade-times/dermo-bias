@@ -1,5 +1,5 @@
 ## Story
-This is the proposed visual edit and preview of a story that instead ran exclusivley in print on Monday October 03 2022 for The Times UK
+This is the proposed visual edit and preview of the introduction and methodology for a data-led investigation that instead ran exclusivley in print on Monday October 03 2022 for The Times UK
 
 <img width="1141" alt="Screenshot 2022-09-29 at 15 26 48" src="https://github.com/ade-times/dermo-bias/assets/74981075/beadb1ef-2e79-45bd-b728-f821c80d6f65">
 <img width="1141" alt="Screenshot 2022-09-29 at 15 26 55" src="https://github.com/ade-times/dermo-bias/assets/74981075/674536f6-dd72-4520-8a1e-0ccfd4a9c906">
